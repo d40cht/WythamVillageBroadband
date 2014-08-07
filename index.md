@@ -11,7 +11,7 @@ by modern standards. Many households are unable to watch a single low-definition
 and those who work from home or run businesses from home are significantly disadvantaged by the low
 connection speeds.
 
-## What can we do?
+## What are our options?
 
 There are several possible options for improving broadband provision in Wytham, all of which are
 hampered by the small size of the village. For a commercial provider, there may simply not be
@@ -26,6 +26,8 @@ would intend to sign up if the option was available.
 The two main contenders for upgrading the village infrastructure are BT (via the rural broadband
 initiative) and [Gigaclear](http://www.gigaclear.com/). The monthly cost of high-speed broadband
 provision including line rental is between 30 and 40 pounds per month.
+
+## What can I do to help, right now?
 
 **If you are keen to see an improved broadband service in the village, and want to do your bit,
 please fill in the form [here](registerinterest) to register your interest. The more people we
