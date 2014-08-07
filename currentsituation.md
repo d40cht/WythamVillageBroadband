@@ -1,15 +1,13 @@
 ---
-title: Current situation
+title: The current situation
 layout: default
 ---
 
 ## Current broadband provision
 
-At present, the only broadband provider in the village is BT. Wytham is served by two exchanges:
-one side of the village via Botley to the exchange in the center of Oxford, the other side of the
-village to the exchange in Summertown.
-
-In both cases the connections are via long stretches of copper wire in poor conditions. As a result
+Wytham is served by two exchanges: one side of the village via Botley to the exchange in the center
+of Oxford, the other side of the village to the exchange in Summertown. In both cases the
+connections are via long stretches of copper wire in poor conditions. As a result
 most of us are already getting the maximum speed possible. For a good connection, you can expect 3Mbs
 and may be able to stream low-definition video from iPlayer (although you will then
 not be able to do any other significant internet access). For a poor connection you may only be
