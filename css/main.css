@@ -9,6 +9,10 @@ a:link, a:visited {
   text-decoration: none;
 }
 
+a {
+  font-weight: bold;
+}
+
 img {
   margin-left: 6px;
   margin-right: 6px;
