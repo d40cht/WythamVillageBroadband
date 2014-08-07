@@ -63,6 +63,7 @@ div.content {
 div.header {
   text-align: center;
   overflow: hidden;
+  position: relative;
 }
 
 h1 {
