@@ -81,12 +81,14 @@ div.header h1 {
 
 span.divbottom {
   font-family: 'Sorts Mill Goudy', serif;
-  position:absolute;
-  color: #999;
-  width: 100%;
-  bottom: 20px;
   font-size: x-large;
   font-style: italic;
+  color: #ccc;
+
+  position:absolute;
+  width: 100%;
+  bottom: 25px;
+  left: 0px;
 }
 
 div.header img {
