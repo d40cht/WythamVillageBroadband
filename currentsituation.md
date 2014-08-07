@@ -39,5 +39,5 @@ this is available [here](http://www.plus.net/support/broadband/master-socket-gui
 
 We are currently investigating whether it is possible to request connection to the Botley cabinet.
 In the cases where people have had their phone line switched, BT have so far initiated the process
-by phoning the customer and asking them if they wanted to upgrade to Infinity.
-
+by phoning the customer and asking them if they wanted to upgrade to Infinity. We'll post an update
+if and when we find out more.
