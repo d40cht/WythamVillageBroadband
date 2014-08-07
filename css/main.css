@@ -80,15 +80,13 @@ div.header h1 {
 }
 
 span.divbottom {
+  font-family: 'Sorts Mill Goudy', serif;
   position:absolute;
+  color: #999;
   width: 100%;
   bottom: 20px;
-}
-
-span.divbottom h2 {
-  font-family: 'Sorts Mill Goudy', serif;
-  display: inline !important;
-  color: #999;
+  font-size: x-large;
+  font-style: italic;
 }
 
 div.header img {
