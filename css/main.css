@@ -26,7 +26,7 @@ img.floatleft {
 div.outer {
   max-width: 990px;
   padding: 10px;
-  border: 1px solid #106010;
+  background-color: #f8f8f8;
   margin-left: auto;
   margin-right: auto;
   box-shadow: 4px 4px 2px #b0b0b0;
