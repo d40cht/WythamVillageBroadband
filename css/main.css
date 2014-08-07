@@ -5,12 +5,16 @@ body {
   background: #d0d0d0 url(images/noise-bg.png);
 }
 
-a:link, a:visited {
+a {
   text-decoration: none;
 }
 
-a {
-  font-weight: bold;
+a:hover {
+  color: #d88;
+}
+
+a:link, a:visited {
+  color: #88d;
 }
 
 img {
