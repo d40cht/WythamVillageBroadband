@@ -66,10 +66,6 @@ div.header {
   position: relative;
 }
 
-span.divbottom {
-  bottom: 0px;
-}
-
 h1 {
   font-family: 'Sorts Mill Goudy', serif;
   font-weight: normal;
@@ -83,6 +79,17 @@ div.header h1 {
   margin-bottom: -6px;
 }
 
+span.divbottom {
+  position:absolute;
+  width: 100%;
+  bottom: 20px;
+}
+
+span.divbottom h2 {
+  font-family: 'Sorts Mill Goudy', serif;
+  display: inline !important;
+  color: #999;
+}
 
 div.header img {
   margin: 0px;
