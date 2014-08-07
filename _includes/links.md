@@ -4,5 +4,5 @@
 * Possible solutions
   * [BT](btsolution)
   * [Gigaclear](gigaclearsolution)
-  * [Satellite broadband](satellitebroadband)
+  * [Satellite broadband](satellitebroadbandsolution)
 * [Questions and answers](questionsandanswers)
