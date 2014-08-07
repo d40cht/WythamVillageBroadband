@@ -86,5 +86,5 @@ world, whether they use VOIP, mobile or landline.
 
 ## Do I still get call services like caller ID, 1471 and call waiting?
 
-Yes. As we’ve used Vonage in our examples above, here is a list of the services included in their
-£5.99 a month package – http://www.vonage.co.uk/inclusive-call-features/.
+Yes. As we’ve used Vonage in our examples above, [here](http://www.vonage.co.uk/inclusive-call-features)
+is a list of the services included in their £5.99 a month package – .
