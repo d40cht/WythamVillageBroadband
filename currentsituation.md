@@ -1,6 +1,7 @@
 ---
 title: The current situation
 layout: default
+allowComents: true
 ---
 
 ## Current broadband provision
