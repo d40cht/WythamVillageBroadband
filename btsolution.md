@@ -6,15 +6,16 @@ allowComments: true
 
 ## BT infinity
 
-BT's Infinity service provides high-speed broadband over the existing telephone line. In order to
-work, BT needs to install a telephone cabinet near to the subscribing properties. In our case,
-our lines can be enabled for Infinity but the nearest cabinet is in Botley. Unfortunately that is
-considerably too far from the village for us to be able to get fast broadband.
+BT's Infinity service provides high-speed broadband over the existing telephone line and can support
+speeds of up to *76Mb*. In order to work, BT needs to install a telephone cabinet near to the
+subscribing properties. In our case, our lines can be enabled for Infinity but the nearest cabinet
+is in Botley. Unfortunately that is considerably too far from the village for us to be able to get
+fast broadband.
 
 For BT to provide a full service, they would need to bring a fiber-optic cable from Oxford/Botley
 all the way to a new cabinet in the village. This is a rather expensive endeavour and BT will not
 do this on their own for rural locations. However there are subsidies available for rural
-communities and the counci has a target to have 95% of houses covered by 2017.
+communities and the council has a target to have 95% of houses covered by 2017.
 
 Unfortunately, larger villages are prioritised over smaller as this allows the target to be met
 for the least expenditure. Wytham is one of the smaller villages and so is likely only to be
