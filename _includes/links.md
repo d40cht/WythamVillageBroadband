@@ -5,5 +5,6 @@
   * [BT](btsolution)
   * [Gigaclear](gigaclearsolution)
   * [Satellite broadband](satellitebroadbandsolution)
+* [Subsidies](subsidies)
 * [Internet phones](voip)
 * [Questions and answers](questionsandanswers)
