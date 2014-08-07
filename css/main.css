@@ -62,11 +62,16 @@ div.header {
   text-align: center;
 }
 
+h1 {
+  font-family: 'Sorts Mill Goudy', serif;
+  font-weight: normal;
+}
+
 div.header h1 {
   font-size: 50px;
   font-variant: small-caps;
-  font-family: 'Sorts Mill Goudy', serif;
 }
+
 
 div.header img {
   margin: 0px;
