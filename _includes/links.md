@@ -5,4 +5,5 @@
   * [BT](btsolution)
   * [Gigaclear](gigaclearsolution)
   * [Satellite broadband](satellitebroadbandsolution)
+* [Internet phones](voip)
 * [Questions and answers](questionsandanswers)
