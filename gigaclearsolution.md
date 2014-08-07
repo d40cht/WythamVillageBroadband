@@ -10,9 +10,9 @@ allowComments: true
 specialise in providing internet for rural locations that the main providers (BT/Virgin) do not
 consider to be commercially viable.
 
-Because the do not use the BT phone lines, and install their own network, they do not use copper
+Because they do not use the BT phone lines, and install their own network, they do not use copper
 cable but install fiber-optic cable directly to each property. This enables speeds of *1000Mbs*
-making them one of the faster broadband providers anywhere in the world (and a full 10x faster
+making them one of the fastest broadband providers anywhere in the world (and a full 10x faster
 than BT infinity).
 
 ## Can we get it?
@@ -24,7 +24,7 @@ for that of researchers, and Gigaclear are one of the solutions under considerat
 chosen it would reduce the cost of installation for Gigaclear for the rest of the village as the
 fiber-optic cable would only have to come down the hill rather than all the way from Farmoor.
 
-In order to convince Gigaclear to consider us, even should the woods office get a connection, we
+In order to convince Gigaclear to even consider us, even should the woods office get a connection, we
 would need *at least half the village*, probably a minimum of 25 households to commit to taking the
 service.
 
