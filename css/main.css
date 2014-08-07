@@ -16,10 +16,12 @@ img {
 
 img.floatright {
   float: right;
+  overflow: hidden;
 }
 
 img.floatleft {
   float: left;
+  overflow: hidden;
 }
 
 
