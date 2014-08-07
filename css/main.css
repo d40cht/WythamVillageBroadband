@@ -66,6 +66,10 @@ div.header {
   position: relative;
 }
 
+span.divbottom {
+  bottom: 0px;
+}
+
 h1 {
   font-family: 'Sorts Mill Goudy', serif;
   font-weight: normal;
