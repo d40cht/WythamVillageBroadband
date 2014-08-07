@@ -27,5 +27,5 @@ The two main contenders for upgrading the village infrastructure are BT (via the
 initiative) and [Gigaclear](http://www.gigaclear.com/). The monthly cost of high-speed broadband
 provision including line rental is between 30 and 40 pounds per month.
 
-* To do your bit, please fill in the form [here](registerinterest) to register your interest. *
+*To do your bit, please fill in the form [here](registerinterest) to register your interest.*
 
