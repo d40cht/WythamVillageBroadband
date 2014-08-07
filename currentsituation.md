@@ -8,11 +8,11 @@ allowComments: true
 
 Wytham is served by two exchanges: one side of the village via Botley to the exchange in the center
 of Oxford, the other side of the village to the exchange in Summertown. In both cases the
-connections are via long stretches of copper wire in poor conditions. As a result
-most of us are already getting the maximum speed possible. For a good connection, you can expect 3Mbs
-and may be able to stream low-definition video from iPlayer (although you will then
+connections are via aging stretches of long copper wire. As a result
+most of us are already getting the maximum speed possible. For a good Wytham connection, you can
+expect *3Mbs* and may be able to stream low-definition video from iPlayer (although you will then
 not be able to do any other significant internet access). For a poor connection you may only be
-getting 1Mbs and may yet have never experienced online streaming video.
+getting 1Mbs and may have never been able to watch online streaming video.
 
 Recently a BT infinity [green cabinet](https://www.google.co.uk/search?q=bt+green+box&source=lnms&tbm=isch&sa=X&ei=q6DjU86pLMjS0QWEu4HgAg&ved=0CAgQ_AUoAQ&biw=1920&bih=875) was installed in Botley. A couple of villagers have had their phone lines
 transferred from the Oxford exchange to the Botley cabinet (having also agreed to

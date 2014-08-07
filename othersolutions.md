@@ -6,4 +6,4 @@ allowComments: true
 
 
 If there are other possibilities for broadband provision that we've missed, please feel free to
-outline them in the comments section below and we can explore them further.
+suggest them in the comments section below and we can explore them further.
