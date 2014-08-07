@@ -65,11 +65,13 @@ div.header {
 h1 {
   font-family: 'Sorts Mill Goudy', serif;
   font-weight: normal;
+  font-style: italic;
 }
 
 div.header h1 {
   font-size: 50px;
   font-variant: small-caps;
+  font-style: normal;
 }
 
 
