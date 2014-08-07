@@ -3,7 +3,7 @@ title: Broadband for Wytham Village
 layout: default
 ---
 
-## The existing broadband provision
+## Our existing broadband provision
 
 At present, the only broadband provider in the village is BT. Because of the distance to the
 exchange(s) and the age of the copper wires involved, the speeds we can obtain are very slow
