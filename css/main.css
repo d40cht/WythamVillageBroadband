@@ -2,6 +2,7 @@
 body {
   font-family: Verdana, Tahoma, 'DejaVu Sans', sans-serif;
   font-size: 14px;
+  background-color: #d0d0d0;
 }
 
 a:link, a:visited {
@@ -21,16 +22,14 @@ img.floatleft {
   float: left;
 }
 
-h1, h2 {
-  color: #106010;
-}
 
 div.outer {
-  width: 900px;
+  max-width: 990px;
   padding: 10px;
   border: 1px solid #106010;
   margin-left: auto;
   margin-right: auto;
+  box-shadow: 4px 4px 2px #b0b0b0;
 }
 
 div.content-wrapper {
@@ -55,6 +54,11 @@ div.content {
 }
 
 div.header {
+}
+
+div.header h1 {
+  font-size: 50px;
+  font-variant: small-caps;
 }
 
 div.header img {
