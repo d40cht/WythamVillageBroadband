@@ -14,6 +14,6 @@
 
 <div style="text-align: center">
   <a class="pure-button pure-button-primary" href="registerinterest">
-    <i class="fa fa-check"></i> Register interest
+    Register interest
   </a>
 </div>
