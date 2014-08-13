@@ -54,6 +54,7 @@ div.content-wrapper {
 
 div.side-bar {
   flex: 4 0 0;
+  margin-right: 5px;
 }
 
 div.side-bar ul {
