@@ -9,3 +9,9 @@
 * [Subsidies](subsidies)
 * [Internet phones](voip)
 * [Questions and answers](questionsandanswers)
+
+<hr>
+
+<a class="pure-button pure-button-primary" href="registerinterest">
+  <i class="fa fa-check"></i>Register interest
+</a>
