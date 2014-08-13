@@ -10,9 +10,7 @@
 * [Internet phones](voip)
 * [Questions and answers](questionsandanswers)
 
-<br>
-
-<div style="text-align: center">
+<div>
   <a class="pure-button pure-button-primary" href="registerinterest">
     Register interest
   </a>
