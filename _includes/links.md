@@ -12,6 +12,6 @@
 
 <div class="register-button">
   <a class="pure-button pure-button-primary" href="registerinterest">
-    Register interest
+    Sign me up!
   </a>
 </div>
