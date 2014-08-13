@@ -56,7 +56,7 @@ div.side-bar {
   flex: 4 0 0;
 }
 
-div.side-bar ul {
+div.side-bar ul, div.register-button {
   padding-left: 30px;
 }
 
