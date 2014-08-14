@@ -103,6 +103,13 @@ span.divbottom {
   left: 0px;
 }
 
+div.header-progress {
+  position:absolute;
+  width: 100%;
+  bottom: 10px;
+  left: 0px;
+}
+
 div.header img {
   margin: 0px;
 }
