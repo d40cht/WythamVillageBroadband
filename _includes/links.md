@@ -11,8 +11,8 @@
 * [Questions and answers](questionsandanswers)
 
 <div class="progress">
-  <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;">
-    60%
+  <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 33%;">
+    33% (10 out of 30)
   </div>
 </div>
 
