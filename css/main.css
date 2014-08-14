@@ -101,13 +101,13 @@ span.divbottom {
 
   position:absolute;
   width: 100%;
-  bottom: 40px;
+  bottom: 45px;
   left: 0px;
 }
 
 div.header-progress {
   position:absolute;
-  opacity: 0.5;
+  opacity: 0.7;
   width: 100%;
   bottom: -5px;
   left: 0px;
