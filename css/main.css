@@ -112,6 +112,7 @@ div.header-progress {
 
 div.header img {
   margin: 0px;
+  border-bottom: 1px solid #ccc;
 }
 
 div.footer {
