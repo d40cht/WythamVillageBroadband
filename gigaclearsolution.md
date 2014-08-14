@@ -19,7 +19,7 @@ than BT infinity).
 
 Until recently, Gigaclear has considered Wytham to be too small to be commercially viable. However
 they have now completed an installation of their network in Farmoor, just over the hill from here.
-Moreover the woods office are looking to improve their broadband connection for their own use, and
+Moreover the woods office are looking to improve their broadband connection for their own use and
 for that of researchers, and Gigaclear are one of the solutions under consideration. Should they be
 chosen it would reduce the cost of installation for Gigaclear for the rest of the village as the
 fiber-optic cable would only have to come down the hill rather than all the way from Farmoor.
@@ -31,4 +31,4 @@ service.
 ## Who can I talk to to find out more?
 
 Alex Wilson, recently returned to the village from Appleton to #12 Wytham has had the Gigaclear
-service for the last two years, is a huge fan, and would be very to answer questions.
+service for the last two years, is a huge fan, and would be very happy to answer any questions.
