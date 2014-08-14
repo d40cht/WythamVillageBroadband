@@ -106,7 +106,7 @@ span.divbottom {
 div.header-progress {
   position:absolute;
   width: 100%;
-  bottom: 10px;
+  bottom: 0px;
   left: 0px;
 }
 
