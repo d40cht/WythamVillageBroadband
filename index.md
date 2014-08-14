@@ -31,6 +31,6 @@ provision including line rental is between 30 and 40 pounds per month.
 
 *If you are keen to see an improved broadband service in the village, and want to do your bit,
 please fill in the form [here](registerinterest) to register your interest. The more people we
-have signed up, the likelier it is that a service can be provided - so your vote really does
-count.*
+have signed up, the likelier it is that a service can be provided - so __your vote really does
+count__.*
 
