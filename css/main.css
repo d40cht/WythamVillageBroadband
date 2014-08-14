@@ -73,6 +73,7 @@ div.header {
   text-align: center;
   overflow: hidden;
   position: relative;
+  border-bottom: 1px solid #ccc;
 }
 
 h1, h2, h3, h4 {
@@ -112,7 +113,6 @@ div.header-progress {
 
 div.header img {
   margin: 0px;
-  border-bottom: 1px solid #ccc;
 }
 
 div.footer {
