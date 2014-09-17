@@ -3,7 +3,7 @@ layout: default
 title: Gigaclear clarifies their position.
 ---
 
-**Good news**: Gigaclear have clarified their criteria for installing broadband in Wytham village:
+**_Good news_**: Gigaclear have conditionally commited to bringing their service to the village.
 
 * *If* the university contracts them to install broadband to the woods office, *and*
 * *If* we have 50% of the main village committed to taking their service (just over 20 households)
