@@ -69,6 +69,14 @@ div.content {
   flex: 12 0 0;
 }
 
+div.blog-bar li {
+  margin: 0;
+  padding: 6px 0;
+  list-style: none;
+  clear: both;
+  border-top: solid 1px #ddd;
+}
+
 div.blog-bar {
   flex: 4 0 0;
 }
