@@ -1,17 +1,17 @@
-* [Home](index)
-* [Register interest](registerinterest)
-* [The current situation](currentsituation)
+* [Home](/index)
+* [Register interest](/registerinterest)
+* [The current situation](/currentsituation)
 * Possible solutions
-  * [BT](btsolution)
-  * [Gigaclear](gigaclearsolution)
-  * [Satellite broadband](satellitebroadbandsolution)
-  * [Other solutions?](othersolutions)
-* [Subsidies](subsidies)
-* [Internet phones](voip)
-* [Questions and answers](questionsandanswers)
+  * [BT](/btsolution)
+  * [Gigaclear](/gigaclearsolution)
+  * [Satellite broadband](/satellitebroadbandsolution)
+  * [Other solutions?](/othersolutions)
+* [Subsidies](/subsidies)
+* [Internet phones](/voip)
+* [Questions and answers](/questionsandanswers)
 
 <div class="register-button">
-  <a class="pure-button pure-button-primary" href="registerinterest">
+  <a class="pure-button pure-button-primary" href="/registerinterest">
     Sign me up!
   </a>
 </div>
