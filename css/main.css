@@ -34,7 +34,7 @@ img.floatleft {
 
 
 div.outer {
-  max-width: 990px;
+  max-width: 1200px;
   padding-top: 10px;
   padding-bottom: 10px;
   padding-left: 30px;
@@ -67,6 +67,10 @@ div.side-bar ul ul {
 
 div.content {
   flex: 12 0 0;
+}
+
+div.blog-bar {
+  flex: 4 0 0;
 }
 
 div.header {
