@@ -28,6 +28,14 @@ In order to convince Gigaclear to even consider us, even should the woods office
 would need *at least half the village*, probably a minimum of 25 households to commit to taking the
 service.
 
+## How much would it cost?
+
+The base cost would be £37 per month for a package with 50Mbs speed and unlimited downloads. 
+Additional options are 100Mbs, 200Mbs and 1000Mbs with the latter costing £69 per month.
+
+Full information on Gigaclear's various levels of service and subscription costs can be found
+[here](http://www.gigaclear.com/what-we-offer/for-home/home-broadband-packages).
+
 ## Who can I talk to to find out more?
 
 Alex Wilson, recently returned to the village from Appleton to #12 Wytham has had the Gigaclear
