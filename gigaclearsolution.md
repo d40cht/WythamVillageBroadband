@@ -6,7 +6,7 @@ allowComments: true
 
 ## Gigaclear's solution
 
-[Gigaclear](www.gigaclear.com) provides broadband to the property over their own network and
+[Gigaclear](http://www.gigaclear.com) provides broadband to the property over their own network and
 specialise in providing internet for rural locations that the main providers (BT/Virgin) do not
 consider to be commercially viable.
 
