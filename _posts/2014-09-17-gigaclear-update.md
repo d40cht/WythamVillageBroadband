@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gigaclear strengthens their position.
+title: Gigaclear clarifies their position.
 ---
 
 **Good news**: Gigaclear have clarified their criteria for installing broadband in Wytham village:
