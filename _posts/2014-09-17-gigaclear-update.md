@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Gigaclear clarifies their position.
+title: Gigaclear strengthens their position.
 ---
 
-Gigaclear have clarified their criteria for installing broadband in Wytham village:
+Good news: Gigaclear have clarified their criteria for installing broadband in Wytham village:
 
 * If the university contracts them to install broadband to the woods office, and
 * If we have 50% of the main village committed to taking their service (just over 20 households)
