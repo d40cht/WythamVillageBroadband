@@ -11,26 +11,30 @@ by modern standards. Many households are unable to watch a single low-definition
 and those who work from home or run businesses from home are significantly disadvantaged by the low
 connection speeds.
 
-## What are our options?
+## What is coming?
 
-There are several possible options for improving broadband provision in Wytham, all of which are
-hampered by the small size of the village. For a commercial provider, there may simply not be
-enough subscribers for it to be worth their while to upgrade our network. Subsidies exist for our
-county (via [Better broadband for Oxfordshire](http://www.betterbroadbandoxfordshire.org.uk/home))
-but the council are prioritising the larger villages.
+Mid 2015, the university committed to improving Wytham's broadband provision, and after evaluating
+two providers (Gigaclear and BT) decided upon BT. The primary funding for the upgrade will come
+from the university, but the village has also raised money for the upgrade. An order was placed
+with BT.
 
-Regardless of provider, in order to stand a chance of getting an upgrade, we need to show that
-there is significant interest in improving the service, and that a high proportion of households
-would intend to sign up if the option was available.
+## Some progress
 
-The two main contenders for upgrading the village infrastructure are BT (via the rural broadband
-initiative) and [Gigaclear](http://www.gigaclear.com/). The monthly cost of high-speed broadband
-provision including line rental is between 30 and 40 pounds per month.
+Having placed the order (and paid a significant proportion of the money upfront), BT were only
+prepared to say that the order would be complete around March 2016 (9 months from the order date).
+It is now mid-July 2016 and although there has been some visible progress (since March 2016 we
+have a green Fiber cabinet installed on the Botley entrance to the village) the work has not been
+completed.
+
+## What's left to do?
+
+The remaining work required is for BT to wire our houses to the new cabinet, and wire the cabinet
+to an exchange or cabinet in Oxford. BT have given no indication of when this is going to happen.
 
 ## What can I do to help, right now?
 
 *If you are keen to see an improved broadband service in the village, and want to do your bit,
-please fill in the form [here](registerinterest) to register your interest. The more people we
-have signed up, the likelier it is that a service can be provided - so __your vote really does
-count__.*
+please __phone BT__ to ask about the status of the upgrade. Most likely they will be unwilling to
+share any information, but if enough people call, we may get a reply or they may consider
+reprioritising the work.
 
