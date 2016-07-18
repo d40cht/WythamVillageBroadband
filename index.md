@@ -31,7 +31,7 @@ completed.
 The remaining work required is for BT to wire our houses to the new cabinet, and wire the cabinet
 to an exchange or cabinet in Oxford. BT have given no indication of when this is going to happen.
 
-## Timeline of shame
+## BT Timeline of shame
 
 Date | Progress
 March 2015 | The university chooses BT over Gigaclear and an order is placed (with substantial downpayment).
