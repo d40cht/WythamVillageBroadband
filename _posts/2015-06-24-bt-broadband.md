@@ -3,6 +3,8 @@ layout: default
 title: July 2015, BT will provide Broadband.
 ---
 
+An order has been submitted!
+
 __The good news__
 
 The university have put in an order to BT to upgrade the village broadband infrastructure. We
