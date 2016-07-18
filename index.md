@@ -16,20 +16,24 @@ connection speeds.
 Mid 2015, the university committed to improving Wytham's broadband provision, and after evaluating
 two providers (Gigaclear and BT) decided upon BT. The primary funding for the upgrade will come
 from the university, but the village has also raised money for the upgrade. An order was placed
-with BT.
+with BT in March 2015.
 
 ## Some progress
 
 Having placed the order (and paid a significant proportion of the money upfront), BT were only
-prepared to say that the order would be complete around March 2016 (9 months from the order date).
-It is now mid-July 2016 and although there has been some visible progress (since March 2016 we
-have a green Fiber cabinet installed on the Botley entrance to the village) the work has not been
-completed.
+prepared to say that the order would be complete around February 2016 (almost a year after the order
+date). It is now mid-July 2016 and although there has been some visible progress (since March 2016
+we have a green Fiber cabinet installed on the Botley entrance to the village) the work has not
+been completed. *More importantly, there is total radio silence from BT about progress so we have no
+idea when to expect the rest of the work to complete.*
 
 ## What's left to do?
 
 The remaining work required is for BT to wire our houses to the new cabinet, and wire the cabinet
 to an exchange or cabinet in Oxford. BT have given no indication of when this is going to happen.
+Having cornered a couple of Openreach engineers a few weeks back, it appears that the actual work
+to do this will not take long (a few days). So the holdup is scheduling: BT need to decide to do
+the work!
 
 ## BT Timeline of shame
 
