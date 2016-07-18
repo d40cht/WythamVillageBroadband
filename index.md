@@ -31,7 +31,7 @@ The remaining work required is for BT to wire our houses to the new cabinet, and
 to an exchange or cabinet in Oxford. BT have given no indication of when this is going to happen.
 Having cornered a couple of Openreach engineers a few weeks back, it appears that the actual work
 to do this will not take long (a few days). So the holdup is scheduling: BT need to decide to do
-the work!
+the work they've been paid for!
 
 ## What can I do to help, right now?
 
