@@ -1,6 +1,6 @@
 ---
 layout: default
-title: March 2016: Fiber Cabinet!
+title: March 2016, Fiber Cabinet!
 ---
 
 The 21st Century has landed.

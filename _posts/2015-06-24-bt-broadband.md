@@ -1,6 +1,6 @@
 ---
 layout: default
-title: July 2015: BT will provide Broadband.
+title: July 2015, BT will provide Broadband.
 ---
 
 __The good news__
