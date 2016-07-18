@@ -43,7 +43,7 @@ July 2016 | No further progress on broadband, *radio silence from BT*.
 ## What can I do to help, right now?
 
 If you are keen to see an improved broadband service in the village, and want to do your bit,
-please __phone BT__ to ask about the status of the upgrade. Most likely they will be unwilling to
-share any information, but if enough people call, we may get a reply or they may consider
-reprioritising the work.
+please __phone BT customer services__ to ask about the status of the upgrade. Most likely they will
+be unwilling to share any information, but if enough people call, we may get a reply or they may
+consider reprioritising the work.
 
