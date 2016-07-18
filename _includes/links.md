@@ -7,7 +7,6 @@
   * [Satellite broadband](/satellitebroadbandsolution)
   * [Other solutions?](/othersolutions)
 * [Subsidies](/subsidies)
-* [Internet phones](/voip)
 * [Questions and answers](/questionsandanswers)
 
 <div class="register-button">
