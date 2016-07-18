@@ -35,6 +35,14 @@ Having cornered a couple of Openreach engineers a few weeks back, it appears tha
 to do this will not take long (a few days). So the holdup is scheduling: BT need to decide to do
 the work!
 
+## What can I do to help, right now?
+
+If you are keen to see an improved broadband service in the village, and want to do your bit,
+please __phone BT customer services (0800 800 150), or contact them on
+[twitter](https://twitter.com/BTCare)__ to ask about the status of the upgrade. Most likely they
+will be unwilling to share any information, but if enough people call, we may get a reply or they
+may consider reprioritising the work.
+
 ## BT Timeline of shame
 
 __Date__ | __Progress__
@@ -43,12 +51,4 @@ April 2015 | BT lets us know that the install won't happen until *February 2016*
 February 2016 | No news from BT, no broadband.
 March 2016 | A green Fiber cabinet is installed in the village, hopes are raised.
 July 2016 | No further progress on broadband, *radio silence from BT*.
-
-## What can I do to help, right now?
-
-If you are keen to see an improved broadband service in the village, and want to do your bit,
-please __phone BT customer services (0800 800 150), or contact them on
-twitter [https://twitter.com/BTCare]__ to ask about the status of the upgrade. Most likely they
-will be unwilling to share any information, but if enough people call, we may get a reply or they
-may consider reprioritising the work.
 
