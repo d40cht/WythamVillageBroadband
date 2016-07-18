@@ -11,14 +11,12 @@ by modern standards. Many households are unable to watch a single low-definition
 and those who work from home or run businesses from home are significantly disadvantaged by the low
 connection speeds.
 
-## What is coming?
+## The BT upgrade
 
 Mid 2015, the university committed to improving Wytham's broadband provision, and after evaluating
 two providers (Gigaclear and BT) decided upon BT. The primary funding for the upgrade will come
 from the university, but the village has also raised money for the upgrade. An order was placed
 with BT in March 2015.
-
-## Some progress
 
 Having placed the order (and paid a significant proportion of the money upfront), BT were only
 prepared to say that the order would be complete around February 2016 (almost a year after the order
@@ -27,7 +25,7 @@ we have a green Fiber cabinet installed on the Botley entrance to the village) t
 been completed. *More importantly, there is total radio silence from BT about progress so we have no
 idea when to expect the rest of the work to complete.*
 
-## What's left to do?
+## What remains?
 
 The remaining work required is for BT to wire our houses to the new cabinet, and wire the cabinet
 to an exchange or cabinet in Oxford. BT have given no indication of when this is going to happen.
@@ -38,8 +36,8 @@ the work!
 ## What can I do to help, right now?
 
 If you are keen to see an improved broadband service in the village, and want to do your bit,
-please __phone BT customer services (0800 800 150), or contact them on
-[twitter](https://twitter.com/BTCare)__ to ask about the status of the upgrade. Most likely they
+please __phone BT customer services (0800 800 150), or contact them publically on
+[Twitter](https://twitter.com/BTCare)__ to ask about the status of the upgrade. Most likely they
 will be unwilling to share any information, but if enough people call, we may get a reply or they
 may consider reprioritising the work.
 
