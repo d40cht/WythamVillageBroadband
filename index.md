@@ -33,12 +33,12 @@ to an exchange or cabinet in Oxford. BT have given no indication of when this is
 
 ## Timeline of shame
 
-*Date* | *Progress*
-__March 2015__ | The university chooses BT over Gigaclear and an order is placed (with substantial downpayment).
-__April 2015__ | BT lets us know that the install won't happen until February 2016.
-__February 2016__ | No news from BT, no broadband.
-__March 2016__ | A green Fiber cabinet is installed in the village, hopes are raised.
-__July 2016__ | No further progress on broadband, radio silence from BT.
+Date | Progress
+March 2015 | The university chooses BT over Gigaclear and an order is placed (with substantial downpayment).
+April 2015 | BT lets us know that the install won't happen until February 2016.
+February 2016 | No news from BT, no broadband.
+March 2016 | A green Fiber cabinet is installed in the village, hopes are raised.
+July 2016 | No further progress on broadband, radio silence from BT.
 
 ## What can I do to help, right now?
 
