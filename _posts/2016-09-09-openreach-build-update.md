@@ -21,7 +21,6 @@ mini-exchange, in effect and making new connections for all of the existing copp
 involve them snipping the old connections and re-connecting to the new – this will create a
 down-time of only a couple of minutes. This will then give us the same service we are on now, but
 connected ready for the fibre.
-
 2. They then need to do the work we have heard about under the road at Botley. All the paperwork is
 now in with the Authorities to give them permission to dig up the road, etc. They expect to get
 clearance in about 5 – 9 days and then it will take a few nights (working between 22:00 and 04:00)
