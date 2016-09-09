@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 9th September 2016, Openreach build update.
+title: September 2016, Openreach build update.
 ---
 
 __Light at the end of the tunnel (trunking?).__
