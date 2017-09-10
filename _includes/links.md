@@ -8,9 +8,3 @@
   * [Other solutions?](/othersolutions)
 * [Subsidies](/subsidies)
 * [Questions and answers](/questionsandanswers)
-
-<div class="register-button">
-  <a class="pure-button pure-button-primary" href="/registerinterest">
-    Sign me up!
-  </a>
-</div>
